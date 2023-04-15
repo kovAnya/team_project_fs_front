@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkproject=self.webpackChunkproject||[]).push([[469],{1469:function(e,r,s){s.r(r),s.d(r,{default:function(){return t}});var a="HomePage_h1__GCNsT",n="HomePage_page__VYVnG",c=s(184);var t=function(){return(0,c.jsx)(c.Fragment,{children:(0,c.jsx)("div",{className:n,children:(0,c.jsxs)("h1",{className:a,children:["Take good care of ",(0,c.jsx)("br",{}),"your small pets"]})})})}}}]);
+//# sourceMappingURL=469.972fe6c0.chunk.js.map
